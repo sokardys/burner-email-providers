@@ -52,7 +52,6 @@
 14n.co.uk
 15qm.com
 15qm-mail.red
-163.com
 1-8.biz
 188.com
 1ce.us
@@ -2728,6 +2727,7 @@ shut.name
 shut.ws
 sibmail.com
 sify.com
+sikux.com
 siliwangi.ga
 simpleitsecurity.info
 simscity.cf
